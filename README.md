@@ -1,5 +1,7 @@
 # My Coding Bookmarks
 
+A collection of handy websites, repos, templates, etc. for web development
+
 ## Miscellaneous
 
 - [Unsplash](https://unsplash.com/) - Free stock images
