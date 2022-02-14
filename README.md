@@ -21,6 +21,7 @@ A collection of handy websites, repos, templates, etc. for web development.
 ## HTML & CSS
 
 - [Layoutit](https://grid.layoutit.com/) - User interface for generating CSS grid
+- [Non-Boring Gradients](https://non-boring-gradients.netlify.app/) - Creates much nicer CSS gradients than normal by avoiding the 'gray dead zone'
 - [Gradienta](https://gradienta.io/) - Interesting gradient effects
 - [CSS Scan | Box Shadows](https://getcssscan.com/css-box-shadow-examples) - Collection of CSS box shadows
 - [uiGradients](https://uigradients.com/#Aqualicious) - Collection of simple UI gradients
