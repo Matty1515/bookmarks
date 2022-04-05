@@ -34,3 +34,9 @@ A collection of handy websites, repos, templates, etc. for web development.
 - [DailyJS](https://medium.com/dailyjs/13-javascript-one-liners-thatll-make-you-look-like-a-pro-29a27b6f51cb) - More JavaScript one-liners!
 - [easy-scroll.js](https://drive.google.com/file/d/1TVvWFr2kKNi1TZb4Jo8s7TzzKlA0wFZE/view) - Smooth scrolling / inertia scrolling effect
 - [Christian Heilmann Blog](https://christianheilmann.com/2021/02/08/sharing-data-between-css-and-javascript-using-custom-properties/) - Article about using JavaScript with CSS variables
+
+## Chrome Extensions
+
+- [VisBug](https://visbug.web.app/) - General purpose tool for changing web page layouts and doing small CSS edits
+- [SVG Gobbler](https://www.svggobbler.com/) - Finds the vector content on the page you're viewing and gives you the option to download, optimize, copy, view the code, or export it as an image
+- [Fonts Ninja](https://www.fonts.ninja/) -  Identify fonts on any website
