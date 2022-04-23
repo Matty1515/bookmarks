@@ -17,6 +17,7 @@ A collection of handy websites, repos, templates, etc. for web development.
 - [Mobile Palette](https://mobilepalette.colorion.co/) - Pick a color and generate a simple color palette from it
 - [Hero Patterns](https://www.heropatterns.com/) - A collection of repeatable SVG background patterns for you to use on your web projects
 - [Transparent Textures](https://www.transparenttextures.com/) - Simple background patterns
+- [UI Ball Loaders](https://uiball.com/loaders/) - A collection of free loaders & spinners
 
 ## HTML & CSS
 
