@@ -28,6 +28,7 @@ A collection of handy websites, repos, templates, etc. for web development.
 - [uiGradients](https://uigradients.com/#Aqualicious) - Collection of simple UI gradients
 - [Caleb McGuire Blog](http://www.mrmcguire.com/10-useful-google-font-combinations-for-your-next-site/) - 10 Useful Google Font Combinations for Your Next Site
 - [1LineLayouts](https://1linelayouts.glitch.me/) - 10 one-liner CSS layout and sizing techniques
+- [Hex to CSS Filter](https://isotropic.co/tool/hex-color-to-css-filter/) - Generate a CSS filter to turn any colour into the specified hex
 
 ## JavaScript
 
