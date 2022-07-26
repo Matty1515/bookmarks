@@ -13,7 +13,7 @@ A collection of handy websites, repos, templates, etc. for web development.
 - [Public-APIs](https://public-apis.io/) - List of free & public APIs
 - [GitSheet](https://gitsheet.wtf/) - Git command cheat sheet
 - [Line Awesome](https://icons8.com/line-awesome) - The best free icon pack
-- [JSON Editor Online](http://jsoneditoronline.org/) - Beautify and edit JSON code
+- [JSON Hero](https://jsonhero.io/) - The best JSON viewer - beautify, preview, generate demo code, and more
 - [Mobile Palette](https://mobilepalette.colorion.co/) - Pick a color and generate a simple color palette from it
 - [Hero Patterns](https://www.heropatterns.com/) - A collection of repeatable SVG background patterns for you to use on your web projects
 - [Transparent Textures](https://www.transparenttextures.com/) - Simple background patterns
