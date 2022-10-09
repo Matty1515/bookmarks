@@ -41,6 +41,7 @@ A collection of handy websites, repos, templates, etc. for web development.
 ## Vue
 
 - [Vue Cheatsheet](https://devhints.io/vue) - Cheatsheet for basic Vue commands
+- [VueUse](https://vueuse.org/) - Collection of Vue composition utilities
 
 ## Chrome Extensions
 
