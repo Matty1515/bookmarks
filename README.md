@@ -18,7 +18,7 @@ A collection of handy websites, repos, templates, etc. for web development.
 - [Hero Patterns](https://www.heropatterns.com/) - A collection of repeatable SVG background patterns for you to use on your web projects
 - [Transparent Textures](https://www.transparenttextures.com/) - Simple background patterns
 - [UI Ball Loaders](https://uiball.com/loaders/) - A collection of free loaders & spinners
-- [Small Dev Tools](https://smalldev.tools/) - A bunch of useful dev tools e.g. minify, json decode, etc.
+- [Small Dev Tools](https://smalldev.tools/) - A bunch of useful dev tools to format, minify, json decode, etc.
 
 ## HTML & CSS
 
@@ -37,6 +37,10 @@ A collection of handy websites, repos, templates, etc. for web development.
 - [DailyJS](https://medium.com/dailyjs/13-javascript-one-liners-thatll-make-you-look-like-a-pro-29a27b6f51cb) - More JavaScript one-liners!
 - [easy-scroll.js](https://drive.google.com/file/d/1TVvWFr2kKNi1TZb4Jo8s7TzzKlA0wFZE/view) - Smooth scrolling / inertia scrolling effect
 - [Christian Heilmann Blog](https://christianheilmann.com/2021/02/08/sharing-data-between-css-and-javascript-using-custom-properties/) - Article about using JavaScript with CSS variables
+
+## Vue
+
+- [Vue Cheatsheet](https://devhints.io/vue) - Cheatsheet for basic Vue commands
 
 ## Chrome Extensions
 
