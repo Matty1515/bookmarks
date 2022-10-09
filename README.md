@@ -18,6 +18,7 @@ A collection of handy websites, repos, templates, etc. for web development.
 - [Hero Patterns](https://www.heropatterns.com/) - A collection of repeatable SVG background patterns for you to use on your web projects
 - [Transparent Textures](https://www.transparenttextures.com/) - Simple background patterns
 - [UI Ball Loaders](https://uiball.com/loaders/) - A collection of free loaders & spinners
+- [Small Dev Tools](https://smalldev.tools/) - A bunch of useful dev tools e.g. minify, json decode, etc.
 
 ## HTML & CSS
 
