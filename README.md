@@ -19,6 +19,7 @@ A collection of handy websites, repos, templates, etc. for web development.
 - [Transparent Textures](https://www.transparenttextures.com/) - Simple background patterns
 - [UI Ball Loaders](https://uiball.com/loaders/) - A collection of free loaders & spinners
 - [Small Dev Tools](https://smalldev.tools/) - A bunch of useful dev tools to format, minify, json decode, etc.
+- [httpstat.us](http://httpstat.us/) - Super simple service for generating different HTTP codes
 
 ## HTML & CSS
 
